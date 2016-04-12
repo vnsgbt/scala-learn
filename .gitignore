@@ -158,3 +158,12 @@ target/streams/test/externalDependencyClasspath/$global/streams/export
 target/streams/test/managedClasspath/$global/streams/export
 target/streams/test/unmanagedClasspath/$global/streams/export
 target/streams/test/unmanagedJars/$global/streams/export
+target/scala-2.11/classes/extractor/FreeUser.class
+target/scala-2.11/classes/extractor/PremUser$.class
+target/scala-2.11/classes/extractor/PremUser.class
+target/scala-2.11/classes/extractor/User$$anonfun$main$1.class
+target/scala-2.11/classes/extractor/User$.class
+target/scala-2.11/classes/extractor/User.class
+target/scala-2.11/classes/extractor/Users.class
+target/scala-2.11/classes/extractor/premium$.class
+target/scala-2.11/classes/extractor/premium.class

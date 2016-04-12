@@ -1,13 +1,8 @@
-/**
-  * Created by snguy on 4/12/2016.
-  *
-  */
+package extractor
 
 trait Users {
   def name: String
   def score: Int
-
-  override def toString = "name: (" + name + ") score: (" + score + ") "
 }
 
 class FreeUser (val name: String, val score: Int, val upgradable: Double) extends Users
@@ -33,11 +28,6 @@ object User {
 object PremUser {
   def unapply(user: PremUser): Option[(String, Int)] =
     Some((user.name, user.score))
-}
-
-object FreeUser {
-  def unapply(user: FreeUser): Option[(String, Int, Double)] =
-    Some((user.name, user.score, user.upgradable))
 }
 
 object premium {
