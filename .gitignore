@@ -167,3 +167,11 @@ target/scala-2.11/classes/extractor/User.class
 target/scala-2.11/classes/extractor/Users.class
 target/scala-2.11/classes/extractor/premium$.class
 target/scala-2.11/classes/extractor/premium.class
+target/scala-2.11/classes/extractor/GivenNames$$anonfun$unapplySeq$1.class
+target/scala-2.11/classes/extractor/GivenNames$.class
+target/scala-2.11/classes/extractor/GivenNames.class
+target/scala-2.11/classes/extractor/Names$.class
+target/scala-2.11/classes/extractor/Names.class
+target/scala-2.11/classes/extractor/User$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
+target/scala-2.11/classes/extractor/User$$anonfun$1$$anonfun$apply$1.class
+target/scala-2.11/classes/extractor/User$$anonfun$1.class
