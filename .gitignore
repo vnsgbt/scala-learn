@@ -507,3 +507,7 @@ target/scala-2.11/test-classes/ErrorHandlingTest$$anonfun$5.class
 target/scala-2.11/test-classes/FutureTest.class
 target/scala-2.11/test-classes/StayDryTest.class
 target/scala-2.11/test-classes/scalatest/UnitSpec.class
+target/scala-2.11/test-classes/StayDryTest$$anonfun$1.class
+target/scala-2.11/test-classes/StayDryTest$$anonfun$2.class
+target/scala-2.11/test-classes/StayDryTest$$anonfun$3.class
+target/scala-2.11/test-classes/StayDryTest$$anonfun$4.class
